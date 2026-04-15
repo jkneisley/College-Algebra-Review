@@ -25,6 +25,16 @@
 
   
       <xi:include href="lesson05.ptx"/>
+      <xi:include href="lesson06.ptx"/>
+      <xi:include href="lesson07.ptx"/>
+      <xi:include href="lesson08.ptx"/>
+
+</chapter>
+
+<chapter xml:id="unit-3">
+  <title>Unit 3</title>
+
+      <xi:include href="lesson09.ptx"/>
 
 </chapter>
 

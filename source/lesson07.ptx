@@ -1,0 +1,123 @@
+<section xml:id="lesson-07">
+  <title>Lesson 7 - Quadratic Equations</title>
+
+  <objectives>
+    <ul>
+      <li>Solve quadratic equations by factoring.</li>
+      <li>Solve quadratic equations using the square root property.</li>
+      <li>Solve quadratic equations by completing the square.</li>
+      <li>Solve quadratic equations using the quadratic formula.</li>
+      <li>Use the discriminant to analyze the number and type of solutions.</li>
+      <li>Solve application problems involving quadratic equations.</li>
+    </ul>
+  </objectives>
+
+  <subsection xml:id="l7-factoring">
+    <title>Solving by Factoring</title>
+
+      <exercise xml:id="l7-ex1">
+        <statement>
+          <p>Solve the following equations by factoring.</p>
+          <ol marker="a.">
+            <li><m>15x^2 + 4x - 4 = 0</m></li>
+            <li><m>x^2 - 64 = 0</m></li>
+            <li><m>2x^2 - 14 = -3x</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Rewrite each equation in standard form, factor, and solve.</p>
+        </solution>
+      </exercise>
+  </subsection>
+
+  <subsection xml:id="l7-square-root">
+    <title>Square Root Property</title>
+
+      <exercise xml:id="l7-ex2">
+        <statement>
+          <p>Solve the following equations by the square root property.</p>
+          <ol marker="a.">
+            <li><m>x^2 - 12 = 0</m></li>
+            <li><m>(x - 6)^2 - 10 = 39</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Isolate the squared term, then apply the square root property.</p>
+        </solution>
+      </exercise>
+  </subsection>
+
+  <subsection xml:id="l7-completing-square">
+    <title>Completing the Square</title>
+
+      <exercise xml:id="l7-ex3">
+        <statement>
+          <p>Solve the following equations by completing the square.</p>
+          <ol marker="a.">
+            <li><m>6x^2 - 48 = -12x</m></li>
+            <li><m>2x^2 - 5x + 67 = 0</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Rewrite each equation and complete the square to solve.</p>
+        </solution>
+      </exercise>
+  </subsection>
+
+  <subsection xml:id="l7-quadratic-formula">
+    <title>Quadratic Formula</title>
+
+      <exercise xml:id="l7-ex4">
+        <statement>
+          <p>Solve the following equations using the quadratic formula.</p>
+          <ol marker="a.">
+            <li><m>2x^2 - 7x - 13 = -10</m></li>
+            <li><m>x^2 - 6x + 12 = 0</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Write each equation in standard form and apply the quadratic formula.</p>
+        </solution>
+      </exercise>
+  </subsection>
+
+  <subsection xml:id="l7-discriminant">
+    <title>Using the Discriminant</title>
+
+      <exercise xml:id="l7-ex5">
+        <statement>
+          <p>
+            Use the discriminant to determine the number and character of the solutions.
+          </p>
+          <ol marker="a.">
+            <li><m>-10x^2 - 3x - 9 = -2x</m></li>
+            <li><m>2x^2 = 10x + 5</m></li>
+            <li><m>-7x^2 + 16x = 8x</m></li>
+            <li><m>4x^2 + 8x + 4 = 0</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Rewrite in standard form and evaluate the discriminant.</p>
+        </solution>
+      </exercise>
+  </subsection>
+
+  <subsection xml:id="l7-application">
+    <title>Quadratic Application</title>
+
+      <exercise xml:id="l7-ex6">
+        <statement>
+          <p>
+            The weekly revenue for a particular museum is estimated by
+            <m>r = -2.5p^2 + 187p</m>, where <m>p</m> is the price of a single ticket.
+            Determine the ticket price that produces a weekly revenue of
+            <m>\$2500</m>.
+          </p>
+        </statement>
+        <solution>
+          <p>Set the revenue equation equal to 2500 and solve the resulting quadratic.</p>
+        </solution>
+      </exercise>
+  </subsection>
+
+</section>

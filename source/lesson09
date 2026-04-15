@@ -1,0 +1,94 @@
+<section xml:id="lesson-09">
+  <title>Lesson 9</title>
+
+  <objectives>
+    <ul>
+      <li>Graph quadratic functions using vertex, axis of symmetry, and intercepts.</li>
+      <li>Determine whether a quadratic function has a maximum or minimum value.</li>
+      <li>Identify the maximum or minimum value of a quadratic function and where it occurs.</li>
+      <li>Use given characteristics to graph a quadratic function.</li>
+      <li>Model and analyze a real-world situation using a quadratic function.</li>
+    </ul>
+  </objectives>
+
+  <subsection xml:id="l9-graphing">
+    <title>Graphing Quadratic Functions</title>
+
+    <exercise xml:id="l9-ex1">
+      <statement>
+        <p>
+          Graph the following functions by finding the vertex, axis of symmetry,
+          and intercepts.
+        </p>
+        <ol marker="a.">
+          <li><m>f(x) = -x^2 + 2x + 1</m></li>
+          <li><m>f(x) = 2x^2 - 16x + 33</m></li>
+          <li><m>f(x) = \frac{1}{2}(x - 3)^2 - 2</m></li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+  <subsection xml:id="l9-max-min">
+    <title>Maximum and Minimum Values</title>
+
+    <exercise xml:id="l9-ex2">
+      <statement>
+        <p>
+          Without graphing, determine whether the function has a maximum or
+          minimum value. Then determine the maximum or minimum value and
+          where it occurs.
+        </p>
+        <ol marker="a.">
+          <li><m>f(x) = (x - 6)^2 + 10</m></li>
+          <li><m>f(x) = -5x^2 + 30x + 200</m></li>
+          <li><m>f(x) = 3x^2 + 4x + 3</m></li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+  <subsection xml:id="l9-characteristics">
+    <title>Using Given Characteristics</title>
+
+    <exercise xml:id="l9-ex3">
+      <statement>
+        <p>
+          A quadratic function has the characteristics given below.
+          Use the axis of symmetry to generate two additional points,
+          then use all points to graph the function.
+        </p>
+
+        <p>
+          Vertex: <m>(3, -4)</m><br/>
+          <m>x</m>-intercept: <m>1</m><br/>
+          <m>y</m>-intercept: <m>5</m>
+        </p>
+      </statement>
+    </exercise>
+  </subsection>
+
+  <subsection xml:id="l9-application">
+    <title>Application</title>
+
+    <exercise xml:id="l9-ex4">
+      <statement>
+        <p>
+          A baseball is thrown upward at a velocity of <m>72</m> ft/sec.
+          If it is released at a point <m>6</m> feet from the ground,
+          its distance <m>s</m> in feet from the ground at <m>t</m> seconds
+          is given by
+          <m>s(t) = -16t^2 + 72t + 6</m>.
+        </p>
+        <ol marker="a.">
+          <li>
+            When will the baseball reach its maximum height and how high
+            will it go?
+          </li>
+          <li>How long will it remain in the air?</li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+</section>

@@ -1,0 +1,64 @@
+<section xml:id="lesson-06">
+  <title>Lesson 6 - Inverse Functions
+  </title>
+
+  <objectives>
+    <ul>
+      <li>Draw the inverse of a function from its graph.</li>
+      <li>Find the inverse of a function algebraically.</li>
+      <li>Identify restrictions required for a function to have an inverse.</li>
+    </ul>
+  </objectives>
+
+  <subsection xml:id="l6-draw-inverses">
+    <title>Drawing Inverses from Graphs</title>
+
+    <p>Draw the inverse of each function shown below.</p>
+
+      <exercise xml:id="l6-ex1">
+        <statement>
+          <figure xml:id="l6-inv-graph-1">
+            <caption>Graph of a function to be reflected across the line <m>y = x</m>.</caption>
+            <image source="../figures/drawinv1-review.png">
+              <description><p>Graph of a function to be reflected across the line <m>y = x</m> in order to draw its inverse.</p></description>
+            </image>
+          </figure>
+
+          <figure xml:id="l6-inv-graph-2">
+            <caption>Second graph to reflect across the line <m>y = x</m>.</caption>
+            <image source="../figures/drawinv2-review.png">
+              <description><p>Second graph of a function to be reflected across the line <m>y = x</m> to obtain its inverse.</p></description>
+            </image>
+          </figure>
+        </statement>
+        <solution>
+          <p>
+            The inverse of each function is obtained by reflecting the graph
+            across the line <m>y = x</m>.
+          </p>
+        </solution>
+      </exercise>
+  </subsection>
+
+  <subsection xml:id="l6-find-inverses">
+    <title>Finding Inverses Algebraically</title>
+
+      <exercise xml:id="l6-ex2">
+        <statement>
+          <p>Find the inverse of each function.</p>
+          <ol marker="a.">
+            <li><m>f(x) = 3x - 1</m></li>
+            <li><m>f(x) = \frac{2x + 1}{x - 3}</m></li>
+            <li><m>f(x) = (x - 1)^2</m>, <m>x \le 1</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>
+            Let <m>y = f(x)</m>, interchange <m>x</m> and <m>y</m>, and solve
+            for <m>y</m>. Apply the given domain restriction where required.
+          </p>
+        </solution>
+      </exercise>
+  </subsection>
+
+</section>
