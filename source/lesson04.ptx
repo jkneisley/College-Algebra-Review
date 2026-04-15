@@ -1,0 +1,106 @@
+<section xml:id="lesson-04">
+  <title>Lesson 4 - Circles</title>
+
+  <objectives>
+    <ul>
+      <li>Find the distance between two points in the coordinate plane.</li>
+      <li>Find the midpoint of a line segment.</li>
+      <li>Write equations of circles in standard and general form.</li>
+      <li>Determine the center, radius, domain, and range of a circle.</li>
+    </ul>
+  </objectives>
+
+  <subsection xml:id="l4-distance">
+    <title>Distance Between Two Points</title>
+
+      <exercise xml:id="l4-ex1">
+        <statement>
+          <p>Find the distance between each pair of points.</p>
+          <ol marker="a.">
+            <li><m>(-2,3)</m> and <m>(3,-9)</m></li>
+            <li><m>(-4,3)</m> and <m>(-2,5)</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Apply the distance formula to each pair of points.</p>
+        </solution>
+      </exercise>
+  </subsection>
+
+  <subsection xml:id="l4-midpoint">
+    <title>Midpoint of a Line Segment</title>
+
+      <exercise xml:id="l4-ex2">
+        <statement>
+          <p>Find the midpoint of each line segment with the given endpoints.</p>
+          <ol marker="a.">
+            <li><m>(2,6)</m> and <m>(-12,4)</m></li>
+            <li><m>(4,-6)</m> and <m>(-15,2)</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Use the midpoint formula.</p>
+        </solution>
+      </exercise>
+  </subsection>
+
+  <subsection xml:id="l4-standard-circle">
+    <title>Standard Form of a Circle</title>
+
+      <exercise xml:id="l4-ex3">
+        <statement>
+          <p>Write the standard form of the equation of the circle with the given center and radius.</p>
+          <ol marker="a.">
+            <li>Center <m>(0,0)</m>, radius <m>3</m></li>
+            <li>Center <m>(-2,4)</m>, radius <m>6</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Substitute the center and radius into the standard circle equation.</p>
+        </solution>
+      </exercise>
+  </subsection>
+
+  <subsection xml:id="l4-circle-analysis">
+    <title>Analyzing and Graphing Circles</title>
+
+      <exercise xml:id="l4-ex4">
+        <statement>
+          <p>
+            Give the center and radius of each circle and graph its equation.
+            Use the graph to identify the relation's domain and range.
+          </p>
+          <ol marker="a.">
+            <li><m>x^2 + y^2 = 1</m></li>
+            <li><m>(x+2)^2 + (y-3)^2 = 9</m></li>
+            <li><m>x^2 + y^2 - 4x + 2y - 4 = 0</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Rewrite each equation in standard form, then identify the center and radius.</p>
+        </solution>
+      </exercise>
+  </subsection>
+
+  <subsection xml:id="l4-diameter-problem">
+    <title>Circle Defined by a Diameter</title>
+
+      <exercise xml:id="l4-ex5">
+        <statement>
+          <p>
+            The diameter of a circle has endpoints at <m>(3,6)</m> and <m>(5,4)</m>.
+          </p>
+          <ol marker="a.">
+            <li>Find the coordinates of the circle's center.</li>
+            <li>Find the radius of the circle.</li>
+            <li>Write the equation of the circle in standard form.</li>
+            <li>Write the equation of the circle in general form.</li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Find the midpoint for the center, then compute the radius and equations.</p>
+        </solution>
+      </exercise>
+  </subsection>
+
+</section>

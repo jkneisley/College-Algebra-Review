@@ -1,0 +1,80 @@
+<section xml:id="lesson-01-review">
+  <title>Lesson 1 – Functions and Their Graphs</title>
+
+  <exercise xml:id="l1-ex1">
+      <statement>
+        <p>Determine whether the following relations represent functions. If it is not a function, explain why not.</p>
+        <ol marker="a.">
+          <li><m>\{(1,2),(-3,3),(6,3)\}</m></li>
+          <li><m>\{(-4,4),(8,2),(-4,7)\}</m></li>
+          <li><m>\{(1,-9),(-8,3),(-5,7)\}</m></li>
+          <li><m>xy - x = 5</m></li>
+          <li><m>2x + y^4 = 3</m></li>
+        </ol>
+      </statement>
+      <solution>
+        <p>Solution explanation.</p>
+      </solution>
+    </exercise>
+
+  <exercise xml:id="l1-ex2">
+      <statement>
+        <p>Evaluate each function for the given values. If the function is undefined, write <em>undefined</em>.</p>
+          <p>For each function, evaluate <m>f(3)</m>, <m>f(x-3)</m>, and <m>f(-x)</m>.</p>
+        <ol marker="a.">
+          <li><m>f(x)=x^3-x^2+1</m></li>
+          <li><m>f(x)=2\sqrt{x+7}+1</m></li>
+          <li><m>f(x)=\frac{x+4}{x^2-9}</m></li>
+        </ol>
+      </statement>
+      <solution>
+        <p>Work and simplification.</p>
+      </solution>
+    </exercise>
+
+  <exercise xml:id="l1-ex3">
+      <statement>
+        <p>Identify which of the following graphs are functions. Explain why or why not.</p>
+
+        <figure>
+          <caption>Graph used to determine whether it represents a function.</caption>
+          <image source="../figures/fnf1-review.png">
+            <description><p>Graph used to determine whether it represents a function.</p></description>
+          </image>
+        </figure>
+
+        <figure>
+          <caption>Graph used to determine whether it represents a function.</caption>
+          <image source="../figures/fnf2-review.png">
+            <description><p>Graph used to determine whether it represents a function.</p></description>
+          </image>
+        </figure>
+      </statement>
+      <solution>
+        <p>Justifications based on the vertical line test.</p>
+      </solution>
+    </exercise>
+
+  <exercise xml:id="l1-ex4">
+      <statement>
+        <p>The graph of a function <m>f</m> is given below. Use it to find each indicated value.</p>
+
+        <figure>
+          <caption>Graph of a function used for evaluation.</caption>
+          <image source="../figures/feval-review.png">
+            <description><p>Graph of a function used for evaluation.</p></description>
+          </image>
+        </figure>
+
+        <ol marker="a.">
+          <li><m>f(-8)</m></li>
+          <li><m>f(-4)</m></li>
+          <li><m>f(15)</m></li>
+          <li>Find <m>x</m> if <m>f(x)=8</m></li>
+        </ol>
+      </statement>
+      <solution>
+        <p>Values read directly from the graph.</p>
+      </solution>
+    </exercise>
+</section>

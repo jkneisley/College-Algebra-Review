@@ -1,0 +1,59 @@
+<section xml:id="lesson-02">
+  <title>Lesson 2 - Linear Functions</title>
+
+  <remark>
+    <p>No explicit learning objectives were provided in the original lesson.</p>
+  </remark>
+
+  <exercises>
+
+    <exercise xml:id="l2-slope-intercept">
+      <statement>
+        <p>Give the slope and <m>y</m>-intercept of each line whose equation is given, then graph the line.</p>
+        <ol marker="a.">
+          <li><m>y=\frac{7}{2}x-2</m></li>
+          <li><m>x=5</m></li>
+          <li><m>y=-3x</m></li>
+          <li><m>y=-1</m></li>
+        </ol>
+      </statement>
+      <solution>
+        <p>Identify the slope and intercept from each equation and sketch the corresponding line.</p>
+      </solution>
+    </exercise>
+
+    <exercise xml:id="l2-intercepts">
+      <statement>
+        <p>Use the intercepts to graph each line whose equation is given.</p>
+        <ol marker="a.">
+          <li><m>x+y=-3</m></li>
+          <li><m>3x+4y=12</m></li>
+        </ol>
+      </statement>
+      <solution>
+        <p>Find the <m>x</m>- and <m>y</m>-intercepts and graph each line.</p>
+      </solution>
+    </exercise>
+
+    <exercise xml:id="l2-application">
+      <statement>
+        <p>
+          You are looking to expand your candy store. You currently rent a small,
+          <m>1150</m> square foot space for <m>\$2731.25</m> per month.
+          The owner of the shop next door pays <m>\$3562.50</m> for a
+          <m>1500</m> square foot space.
+          Another shop that you estimate to be <m>2000</m> square feet will be available
+          at the end of next month.
+        </p>
+        <p>
+          Write a linear function that models the rent, <m>R</m>, as a function of the square
+          footage, <m>x</m>, then estimate the cost of the <m>2000</m> square foot space.
+        </p>
+      </statement>
+      <solution>
+        <p>Use the given data points to determine a linear model and evaluate it at <m>x=2000</m>.</p>
+      </solution>
+    </exercise>
+
+  </exercises>
+</section>

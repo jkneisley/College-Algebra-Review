@@ -1,0 +1,78 @@
+<section xml:id="lesson-03">
+  <title>Lesson 3 - Transformations of Functions</title>
+
+  <objectives>
+    <ul>
+      <li>Describe sequences of transformations applied to a function.</li>
+      <li>Apply transformations to a given graph.</li>
+      <li>Graph transformed functions starting from a parent function.</li>
+    </ul>
+  </objectives>
+
+  <subsection xml:id="l3-transform-expressions">
+    <title>Transformations of a Given Function</title>
+
+    <p>
+      Describe the sequence of transformations given by each expression,
+      then apply the transformations to the function shown in the graph below.
+    </p>
+
+    <figure xml:id="l3-base-function">
+      <caption>Graph of a base function used to apply and visualize transformations.</caption>
+      <image source="../figures/functrans-review.png">
+        <description><p>Graph of a base function used to apply and visualize transformations.</p></description>
+      </image>
+    </figure>
+
+    <exercises>
+      <exercise xml:id="l3-ex1">
+        <statement>
+          <ol marker="a.">
+            <li><m>f(x)+2</m></li>
+            <li><m>f(x+2)</m></li>
+            <li><m>f(-x)-2</m></li>
+            <li><m>2f(x+2)</m></li>
+            <li><m>\frac{1}{2}f(2x)-2</m></li>
+            <li><m>2f\left(\frac{1}{2}x\right)</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>
+            For each expression, identify vertical shifts, horizontal shifts,
+            reflections, and stretches or compressions, then apply them to the
+            given graph.
+          </p>
+        </solution>
+      </exercise>
+    </exercises>
+  </subsection>
+
+  <subsection xml:id="l3-transform-equations">
+    <title>Transformations of Parent Functions</title>
+
+    <p>
+      Describe the sequence of transformations described by each equation,
+      then graph the function by applying those transformations to the
+      appropriate parent function.
+    </p>
+
+    <exercises>
+      <exercise xml:id="l3-ex2">
+        <statement>
+          <ol marker="a.">
+            <li><m>f(x)=\frac{4}{x-1}+2</m></li>
+            <li><m>f(x)=\sqrt[3]{x-1}+3</m></li>
+            <li><m>f(x)=-\frac{1}{2}\lvert -x\rvert</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>
+            Begin with the appropriate parent function, then apply horizontal
+            shifts, vertical shifts, reflections, and scalings in the correct order.
+          </p>
+        </solution>
+      </exercise>
+    </exercises>
+  </subsection>
+
+</section>

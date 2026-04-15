@@ -1,0 +1,148 @@
+<section xml:id="lesson-05">
+  <title>Lesson 5: Functions and Operations (Unit 2)</title>
+
+  <objectives>
+    <li>Determine the domain of a function given algebraic restrictions.</li>
+    <li>Perform algebraic operations on functions.</li>
+    <li>Evaluate composite functions.</li>
+    <li>Interpret composite functions in a real-world context.</li>
+    <li>Evaluate difference quotients.</li>
+  </objectives>
+
+  <subsection xml:id="l5-domain">
+    <title>Finding the Domain of a Function</title>
+
+    <exercises>
+      <exercise xml:id="l5-ex1">
+        <statement>
+          <p>Find the domain for each of the following functions.</p>
+          <ol type="a">
+            <li><m>f(x)=2x^2+3x-7</m></li>
+            <li><m>f(x)=\sqrt{2x+4}</m></li>
+            <li><m>f(x)=\frac{1}{x^2-13x+36}</m></li>
+            <li><m>f(x)=\frac{1}{\sqrt{x-2}}</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Identify restrictions caused by square roots and denominators.</p>
+        </solution>
+      </exercise>
+    </exercises>
+  </subsection>
+
+  <subsection xml:id="l5-function-operations">
+    <title>Operations on Functions</title>
+
+    <p>For each pair of functions, find the following.</p>
+
+    <ul>
+      <li><m>(f+g)(x)</m></li>
+      <li><m>(f-g)(x)</m></li>
+      <li><m>(f\cdot g)(x)</m></li>
+      <li><m>\left(\frac{f}{g}\right)(x)</m></li>
+    </ul>
+
+    <exercises>
+      <exercise xml:id="l5-ex2">
+        <statement>
+          <ol type="a">
+            <li>
+              <m>f(x)=2x+3</m>; <m>g(x)=x-1</m>
+            </li>
+            <li>
+              <m>f(x)=x+2</m>; <m>g(x)=2x^3</m>
+            </li>
+            <li>
+              <m>f(x)=2+\frac{1}{x}</m>; <m>g(x)=\frac{1}{x}</m>
+            </li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Combine functions algebraically and simplify. State domain restrictions when applicable.</p>
+        </solution>
+      </exercise>
+    </exercises>
+  </subsection>
+
+  <subsection xml:id="l5-composition">
+    <title>Composite Functions</title>
+
+    <p>For each pair of functions, find the following.</p>
+
+    <ul>
+      <li><m>(f\circ g)(x)</m></li>
+      <li><m>(g\circ f)(x)</m></li>
+      <li><m>(f\circ f)(x)</m></li>
+      <li><m>(g\circ g)(x)</m></li>
+      <li><m>(f\circ g)(2)</m></li>
+    </ul>
+
+    <exercises>
+      <exercise xml:id="l5-ex3">
+        <statement>
+          <ol type="a">
+            <li>
+              <m>f(x)=5x+2</m>; <m>g(x)=3x-4</m>
+            </li>
+            <li>
+              <m>f(x)=x^2+1</m>; <m>g(x)=x^2-3</m>
+            </li>
+            <li>
+              <m>f(x)=2x-3</m>; <m>g(x)=\frac{x+3}{2}</m>
+            </li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Substitute one function into another and simplify carefully.</p>
+        </solution>
+      </exercise>
+    </exercises>
+  </subsection>
+
+  <subsection xml:id="l5-application">
+    <title>Application of Composite Functions</title>
+
+    <exercises>
+      <exercise xml:id="l5-ex4">
+        <statement>
+          <p>
+            The price of an item at Sarah's Widget Shop is <m>x</m> dollars.
+            Two coupons are modeled by <m>f(x)=x-25</m> and <m>g(x)=0.8x</m>.
+          </p>
+          <ol type="a">
+            <li>Describe how each coupon affects the price of the item.</li>
+            <li>
+              <m>(f\circ g)(x)</m> models applying <m>g</m> first, then <m>f</m>.
+              Describe the effect on the price.
+            </li>
+            <li>Repeat part (b) using <m>(g\circ f)(x)</m>.</li>
+            <li>Which composite function results in the greatest discount? Explain.</li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Interpret each composite function in context and compare final prices.</p>
+        </solution>
+      </exercise>
+    </exercises>
+  </subsection>
+
+  <subsection xml:id="l5-difference-quotient">
+    <title>Difference Quotient</title>
+
+    <exercises>
+      <exercise xml:id="l5-ex5">
+        <statement>
+          <p>Evaluate the difference quotient for each of the functions.</p>
+          <ol type="a">
+            <li><m>f(x)=2x^2-x</m></li>
+            <li><m>f(x)=x^3-4</m></li>
+          </ol>
+        </statement>
+        <solution>
+          <p>Substitute into the difference quotient formula and simplify.</p>
+        </solution>
+      </exercise>
+    </exercises>
+  </subsection>
+
+</section>

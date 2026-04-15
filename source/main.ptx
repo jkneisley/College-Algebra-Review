@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- we first include a file which contains the docinfo element: -->
+  <xi:include href="./docinfo.ptx" />
+
+  <book xml:id="my-great-book">
+    <title>College Algebra Review</title>
+    <subtitle>An example to get you started</subtitle>
+
+    <chapter>
+      <title>Unit 1 Review</title>
+
+      <xi:include href="lesson01.ptx"/>
+      <xi:include href="lesson02.ptx"/>
+      <xi:include href="lesson03.ptx"/>
+      <xi:include href="lesson04.ptx"/>
+
+
+    </chapter>
+
+    
+<chapter xml:id="unit-2">
+  <title>Unit 2 Review</title>
+
+  
+      <xi:include href="lesson05.ptx"/>
+
+</chapter>
+
+
+  </book>
+</pretext>
