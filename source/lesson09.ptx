@@ -60,10 +60,10 @@
         </p>
 
         <p>
-          Vertex: <m>(3, -4)</m><br/>
-          <m>x</m>-intercept: <m>1</m><br/>
-          <m>y</m>-intercept: <m>5</m>
+          Vertex: <m>(3, -4)</m>
         </p>
+        <p><m>x</m>-intercept: <m>1</m></p>
+        <p><m>y</m>-intercept: <m>5</m></p>
       </statement>
     </exercise>
   </subsection>

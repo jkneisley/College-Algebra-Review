@@ -1,0 +1,142 @@
+<section xml:id="lesson-14-15">
+  <title>Lessons 14 and 15</title>
+
+  <objectives>
+    <ul>
+      <li>Determine the domain of rational functions.</li>
+      <li>Identify horizontal and oblique asymptotes of rational functions.</li>
+      <li>Identify vertical asymptotes of rational functions.</li>
+      <li>Graph rational functions using asymptotes and intercepts.</li>
+      <li>Model and solve a real-world problem using a rational equation.</li>
+    </ul>
+  </objectives>
+
+  <subsection xml:id="l14-domain">
+    <title>Domain of Rational Functions</title>
+
+    <exercise xml:id="l14-ex1">
+      <statement>
+        <p>Determine the domain of each of the following functions.</p>
+        <ol marker="a.">
+          <li><m>f(x)=\frac{x^2-1}{x^2+x-6}</m></li>
+          <li><m>f(x)=\frac{(x+1)(2x-2)}{(x-3)(x+4)}</m></li>
+          <li><m>f(x)=\frac{2x+1}{x^2+x+1}</m></li>
+          <li><m>f(x)=\frac{x^2-9}{x^3-4x}</m></li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+  <subsection xml:id="l14-horizontal-oblique">
+    <title>Horizontal and Oblique Asymptotes</title>
+
+    <exercise xml:id="l14-ex2">
+      <statement>
+        <p>
+          Determine the equation of the horizontal or oblique asymptote
+          (if any) of each function.
+        </p>
+        <ol marker="a.">
+          <li><m>f(x)=\frac{-4x^3+2x^2-6x+5}{2x^3+5x-100}</m></li>
+          <li><m>h(x)=\frac{-4x^3+2x^2-6x+5}{x^2-4}</m></li>
+          <li><m>g(x)=\frac{4x+8}{x^2+2x-9}</m></li>
+          <li><m>f(x)=\frac{x^5}{x^2-1}</m></li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+  <subsection xml:id="l14-vertical">
+    <title>Vertical Asymptotes</title>
+
+    <exercise xml:id="l14-ex3">
+      <statement>
+        <p>
+          Determine the equation or equations of the vertical asymptote(s)
+          for each function.
+        </p>
+        <ol marker="a.">
+          <li><m>f(x)=\frac{x^2}{x+3}</m></li>
+          <li><m>f(x)=\frac{3x-2}{x^2-4}</m></li>
+          <li><m>f(x)=\frac{x^2+2x-3}{x^2+3x}</m></li>
+          <li><m>f(x)=\frac{x}{x^2+5}</m></li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+  <subsection xml:id="l15-graphing">
+    <title>Graphing Rational Functions</title>
+
+    <exercise xml:id="l15-ex1">
+      <statement>
+        <p>
+          Graph <m>f(x)=\frac{x-5}{x+6}</m> using the procedure presented in class.
+        </p>
+      </statement>
+    </exercise>
+
+    <exercise xml:id="l15-ex2">
+      <statement>
+        <p>
+          Graph <m>f(x)=\frac{x^3}{x^2-4}</m> using the procedure presented in class.
+        </p>
+      </statement>
+    </exercise>
+  </subsection>
+
+  <subsection xml:id="l15-sketch-from-data">
+    <title>Sketching a Rational Function from Given Information</title>
+
+    <exercise xml:id="l15-ex3">
+      <statement>
+        <p>
+          A rational function has the following attributes. Using only the
+          holes, asymptotes, intercepts, and helpful points listed, sketch
+          the graph of the function.
+        </p>
+
+        <p>
+          Holes: none
+        </p>
+
+        <p>Vertical asymptotes: <m>x=2</m>, <m>x=-2</m>, <m>x=0</m></p>
+
+        <p>Horizontal asymptote: <m>y=-1</m></p>
+
+        <p><m>x</m>-intercepts: <m>(-3,0)</m>, <m>(3,0)</m></p>
+
+        <p>
+          Helpful points: <m>(-4,-0.5)</m>, <m>(-2.5,1)</m>, <m>(-1,-2)</m>,
+          <m>(1,2)</m>, <m>(2.5,1)</m>, <m>(4,-0.5)</m>
+        </p>
+      </statement>
+    </exercise>
+  </subsection>
+
+  <subsection xml:id="l15-application">
+    <title>Application</title>
+
+    <exercise xml:id="l15-ex4">
+      <statement>
+        <p>
+          A group of college students rent a large house and agree to evenly
+          divide the <m>\$1200</m> monthly rent. Initially, there are <m>n</m>
+          college students. Then 5 additional students join the group,
+          causing each student to pay <m>\$40</m> less per month.
+        </p>
+        <ol marker="a.">
+          <li>
+            Create an equation that represents the situation and can be used
+            to solve for <m>n</m>.
+          </li>
+          <li>
+            Use the equation to solve for <m>n</m>, the initial number of
+            college students.
+          </li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+</section>

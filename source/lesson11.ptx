@@ -1,0 +1,69 @@
+<section xml:id="lesson-11">
+  <title>Lesson 11</title>
+
+  <objectives>
+    <ul>
+      <li>Divide polynomials using synthetic or long division.</li>
+      <li>Express polynomial division results using quotient and remainder.</li>
+      <li>Use the Remainder Theorem to evaluate polynomials.</li>
+      <li>Use the Factor Theorem to determine whether a binomial is a factor.</li>
+    </ul>
+  </objectives>
+
+  <subsection xml:id="l11-polynomial-division">
+    <title>Polynomial Division</title>
+
+    <exercise xml:id="l11-ex1">
+      <statement>
+        <p>
+          Divide <m>2x^3 - 3x^2 - 4x - 1</m> by each of the following.
+          Express your answer in
+          <m>(\text{divisor})(\text{quotient}) + \text{remainder}</m> form.
+        </p>
+        <ol marker="a.">
+          <li><m>x - 2</m></li>
+          <li><m>x</m></li>
+          <li><m>x + 3</m></li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+  <subsection xml:id="l11-remainder-theorem">
+    <title>The Remainder Theorem</title>
+
+    <exercise xml:id="l11-ex2">
+      <statement>
+        <p>
+          Use the Remainder Theorem to evaluate
+          <m>f(x) = 2x^3 - 3x^2 - 4x - 1</m>
+          for the given values.
+        </p>
+        <ol marker="a.">
+          <li><m>f(-2)</m></li>
+          <li><m>f(1)</m></li>
+          <li><m>f(4)</m></li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+  <subsection xml:id="l11-factor-theorem">
+    <title>The Factor Theorem</title>
+
+    <exercise xml:id="l11-ex3">
+      <statement>
+        <p>
+          Determine whether each of the following is a factor of
+          <m>x^3 - 6x^2 + 5x + 12</m>.
+        </p>
+        <ol marker="a.">
+          <li><m>x - 4</m></li>
+          <li><m>x + 1</m></li>
+          <li><m>x + 3</m></li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+</section>

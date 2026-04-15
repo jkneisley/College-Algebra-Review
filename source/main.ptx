@@ -35,6 +35,10 @@
   <title>Unit 3</title>
 
       <xi:include href="lesson09.ptx"/>
+      <xi:include href="lesson10.ptx"/>
+      <xi:include href="lesson11.ptx"/>
+      <xi:include href="lesson12-13.ptx"/>
+      <xi:include href="lesson14-15.ptx"/>
 
 </chapter>
 

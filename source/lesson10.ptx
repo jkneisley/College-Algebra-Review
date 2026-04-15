@@ -1,0 +1,151 @@
+<section xml:id="lesson-10">
+  <title>Lesson 10</title>
+
+  <objectives>
+    <ul>
+      <li>Determine whether a function is a polynomial.</li>
+      <li>Write polynomials in standard form.</li>
+      <li>Identify the degree, leading term, and constant of a polynomial.</li>
+      <li>Analyze polynomial graphs to determine degree and end behavior.</li>
+      <li>Determine zeros, multiplicities, and behavior at zeros.</li>
+    </ul>
+  </objectives>
+
+  <subsection xml:id="l10-polynomial-identification">
+    <title>Identifying Polynomial Functions</title>
+
+    <exercise xml:id="l10-ex1">
+      <statement>
+        <p>
+          Determine whether each of the following functions is a polynomial.
+          If it is a polynomial, write it in standard form and list the degree,
+          leading term, and constant. If it is not a polynomial, explain why.
+        </p>
+        <ol marker="a.">
+          <li><m>f(x)=\frac{x}{2}-x^2+\sqrt{7}+x^7+x^4</m></li>
+          <li><m>f(x)=-6x^5+2\sqrt{x}</m></li>
+          <li><m>f(x)=5x^2+\frac{4}{x^2+x}+x^5</m></li>
+          <li><m>(7x-3)(x^2-2x+7)</m></li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+  <subsection xml:id="l10-polynomial-characteristics">
+    <title>Polynomial Characteristics from Graphs</title>
+
+    <remark>
+      <p>
+        For the following exercises, use the image of a polynomial to answer
+        the questions that follow.
+      </p>
+    </remark>
+
+    <exercise xml:id="l10-ex2">
+      <statement>
+        <figure>
+          <caption>Polynomial graph for analysis</caption>
+          <image source="../figures/polychar1-review.png">
+            <description><p>Graph of a polynomial used to determine degree parity, leading coefficient sign, constant sign, and minimum degree.</p></description>
+          </image>
+        </figure>
+
+        <ol marker="a.">
+          <li>
+            Is the degree of the polynomial even or odd?
+            even or odd
+          </li>
+          <li>
+            Is the leading coefficient positive or negative?
+            positive or negative
+          </li>
+          <li>
+            Is the constant positive or negative?
+            positive or negative
+          </li>
+          <li>What is the minimum degree?</li>
+        </ol>
+      </statement>
+    </exercise>
+
+    <exercise xml:id="l10-ex3">
+      <statement>
+        <figure>
+          <caption>Polynomial graph for analysis</caption>
+          <image source="../figures/polychar2-review.png">
+            <description><p>Graph of a polynomial used to determine degree parity, leading coefficient sign, constant sign, and minimum degree.</p></description>
+          </image>
+        </figure>
+
+        <ol marker="a.">
+          <li>
+            Is the degree of the polynomial even or odd?
+            even or odd
+          </li>
+          <li>
+            Is the leading coefficient positive or negative?
+            positive or negative
+          </li>
+          <li>
+            Is the constant positive or negative?
+            positive or negative
+          </li>
+          <li>What is the minimum degree?</li>
+        </ol>
+      </statement>
+    </exercise>
+
+    <exercise xml:id="l10-ex4">
+      <statement>
+        <figure>
+          <caption>Polynomial graph for analysis</caption>
+          <image source="../figures/polychar3-review.png">
+            <description><p>Graph of a polynomial used to determine degree parity, leading coefficient sign, constant sign, and minimum degree.</p></description>
+          </image>
+        </figure>
+
+        <ol marker="a.">
+          <li>
+            Is the degree of the polynomial even or odd?
+            even or odd
+          </li>
+          <li>
+            Is the leading coefficient positive or negative?
+            positive or negative
+          </li>
+          <li>
+            Is the constant positive or negative?
+            positive or negative
+          </li>
+          <li>What is the minimum degree?</li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+  <subsection xml:id="l10-zeros-multiplicity">
+    <title>Zeros, Multiplicity, and Graph Behavior</title>
+
+    <exercise xml:id="l10-ex5">
+      <statement>
+        <p>
+          For <m>f(x)=x(x+2)(x-5)^4</m>:
+        </p>
+        <ol marker="a.">
+          <li>
+            Determine the zeros, give the multiplicity, and determine whether
+            the function crosses or touches the <m>x</m>-axis at each zero.
+          </li>
+          <li>Determine the end behavior of the graph of <m>f(x)</m>.</li>
+          <li>
+            Determine where the function is above the <m>x</m>-axis and where
+            the function is below the <m>x</m>-axis.
+          </li>
+          <li>Determine the <m>y</m>-intercept.</li>
+          <li>Graph the function.</li>
+        </ol>
+      </statement>
+    </exercise>
+  </subsection>
+
+</section>
