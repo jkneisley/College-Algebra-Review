@@ -13,7 +13,38 @@
         </ol>
       </statement>
       <solution>
-        <p>Solution explanation.</p>
+        <p>A relation is a function if each input x is paired with exactly one output y.
+
+
+
+  
+    Yes, it is a function. The x-values are 1, -3, and 6, and none repeat, so each input has exactly one output.
+  
+
+
+  
+    No, it is not a function. The input x=-4 is paired with two different outputs, y=4 and y=7.
+  
+
+
+  
+    Yes, it is a function. The x-values 1, -8, and -5 are all different, so each input has exactly one output.
+  
+
+
+  
+    Rewrite the equation to solve for y: xy - x = 5, so x(y-1)=5.
+    If x\neq 0, then y-1=\frac{5}{x} and y=1+\frac{5}{x}.
+    This gives exactly one y for each x\neq 0, so the relation represents a function on the domain x\neq 0.
+    When x=0, the equation becomes 0=5, which is impossible, so there is no output.
+  
+
+
+  
+    No, it is not a function. Solve for y: 2x + y^4 = 3 gives y^4=3-2x.
+    For values of x with 3-2x&gt;0, there are two real outputs:
+    y=\sqrt[4]{3-2x} and y=-\sqrt[4]{3-2x}.
+    Since a single input can produce more than one output, the relation is not a function.</p>
       </solution>
     </exercise>
 
